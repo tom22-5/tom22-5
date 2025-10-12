@@ -22,8 +22,8 @@ My research focuses on **randomized numerical linear algebra (RandNLA)**, **dyna
 ---
 
 ## 🔍 Featured Projects
-- [RandomizedLowRank](https://github.com/tomfeldhausen/randomized-low-rank) — Julia/Python package for tensor approximations.
-- [RungeKuttaNN](https://github.com/tomfeldhausen/runge-kutta-networks) — Deep learning meets numerical ODE solvers.
+- [RandomizedLowRank](https://github.com/tom22-5/Runge-Kutta-Networks) — Julia/Python package for tensor approximations.
+- [RungeKuttaNN](https://github.com/tom22-5/Runge-Kutta-Networks) — Deep learning meets numerical ODE solvers.
 
 
 ## 💼 Experience  
