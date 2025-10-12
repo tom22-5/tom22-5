@@ -26,7 +26,7 @@ My research focuses on **randomized numerical linear algebra (RandNLA)**, **dyna
 - [Generalized Residual Connections](https://github.com/tom22-5/Generalized-Residual-Connections) — Private review paper about residual connections.
 - [Moviender](https://github.com/tom22-5/moviender) -   Class project: a movie recommender system with a web GUI and collaborative filtering backend.
 - [Runge-Kutta Networks](https://github.com/tom22-5/Runge-Kutta-Networks) — B. Sc. thesis about the connection of ODEs and Deep Learning.
-- [Jamming](https://github.com/tom22-5/git_jamming) - Web app integrating the Spotify API to collaboratively build and manage playlists.
+- [Jammming](https://github.com/tom22-5/git_jammming) - Web app integrating the Spotify API to collaboratively build and manage playlists.
 
 
 
