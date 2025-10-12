@@ -1,16 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Tom Feldhausen  
 
-<!--
-**tom22-5/tom22-5** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **M.Sc. Mathematics** (Minor in Computer Science) at [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de), graduating **March 2026**  
+📍 Bochum, Germany • [LinkedIn](#) • tomfeldhausen@gmail.com  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me  
+I’m a mathematics student passionate about **scientific computing**, **numerical analysis**, and **machine learning**.  
+My research focuses on **randomized numerical linear algebra (RandNLA)**, **dynamical low-rank approximations**, **numerical solution of PDE** and **Deep Learning**.
+
+---
+
+## 🧰 Technical Skills  
+
+**Languages:** C++, Python, Julia, Matlab, Java, JavaScript React, C#, SQL  
+**ML/DL:** PyTorch, TensorFlow, Keras, scikit-learn, NumPy, Pandas  
+**HPC:** MPI, SIMD  
+**Libraries:** deal.II FEM, RandBLAS, RandLAPACK  
+**Other:** Git, Tableau  
+
+---
+
+## 🔍 Featured Projects
+- [RandomizedLowRank](https://github.com/tomfeldhausen/randomized-low-rank) — Julia/Python package for tensor approximations.
+- [RungeKuttaNN](https://github.com/tomfeldhausen/runge-kutta-networks) — Deep learning meets numerical ODE solvers.
+
+
+## 💼 Experience  
+
+### 🎓 Ruhr-University Bochum  
+**Master’s Thesis (Julia, Python)** — *Sep 2025 – Present*  
+- Developed new randomized methods for dynamical low-rank approximations, extending matrix-based techniques to tensors.  
+- Proposed the first-of-its-kind randomized low-rank tensor approximation approach.
+
+**Student Researcher (C++, Python)** — *Apr 2025 – Present*  
+- Implemented **SIMD- and MPI-parallelized** tensor-product preconditioners for implicit DG solvers in [deal.II](https://www.dealii.org/).  
+- Boosted solver performance by 50% and achieved an additional 10% speedup using randomized SVD.
+
+**Bachelor’s Thesis (Matlab)** — *Apr – Jul 2023*  
+- Explored connections between **deep residual networks** and **Runge-Kutta ODE solvers**, showing how Euler-style residual connections yield optimal performance.
+
+---
+
+### 💻 Envera GmbH — *Hattingen, Germany*  
+**Student Software Engineer (VB.NET, C#, SQL)** — *Apr 2022 – Present*  
+- Automated billing validation workflows, reducing manual effort from 100% to <1%.  
+- Increased system throughput by 80% through SQL optimization and modular refactoring.  
+- Built a web-based GUI for internal tools and improved cross-team collaboration.
+
+## 🎓 Education
+
+**M.Sc. Mathematics, Minor in Computer Science** — Ruhr-University Bochum  
+*Exp. Mar 2026 · GPA 1.0 / 4.0*  
+Thesis: *Randomized Methods for Dynamical Low-Rank Approximations (Julia, Python)*  
+
+**Exchange Semester** — Universitat de Barcelona  
+*Sep 2024 – Jan 2025 · Focus: PDEs, Dynamical Systems, Deep Learning*  
+
+**B.Sc. Mathematics, Minor in Computer Science** — Ruhr-University Bochum  
+*Jul 2023 · GPA 1.0 / 4.0*  
+Thesis: *Deep Learning with Runge-Kutta Networks (Matlab)*
+
+
+---
+
+## 🌍 Languages  
+🇩🇪 German (Native) • 🇬🇧 English (C2) • 🇫🇷 French (B1) • 🇪🇸 Spanish (A2) • Latinum  
+
+---
+
+## ⚡ Interests  
+Tennis • Football • Traveling • Science Fiction • Applied Mathematics  
+
+---
+
+⭐️ *Always open to research collaborations and software development opportunities in scientific computing, numerical analysis, and Deep Learning.*
