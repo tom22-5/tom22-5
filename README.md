@@ -22,8 +22,12 @@ My research focuses on **randomized numerical linear algebra (RandNLA)**, **dyna
 ---
 
 ## 🔍 Featured Projects
-- [RandomizedLowRank](https://github.com/tom22-5/Runge-Kutta-Networks) — Julia/Python package for tensor approximations.
-- [RungeKuttaNN](https://github.com/tom22-5/Runge-Kutta-Networks) — Deep learning meets numerical ODE solvers.
+- [Randomized Methods for Dynamical Low-Rank Approximations](https://github.com/tom22-5/Randomized-Methods-For-DLR) - M. Sc. thesis surveying RandNLA, DLR, Tensor Low-Rank Approximations and applying randomized methods to tensor DLR in a first-of-its-kind approach.
+- [Generalized Residual Connections](https://github.com/tom22-5/Generalized-Residual-Connections) — Private review paper about residual connections.
+- [Moviender](https://github.com/tom22-5/moviender) -   Class project: a movie recommender system with a web GUI and collaborative filtering backend.
+- [Runge-Kutta Networks](https://github.com/tom22-5/Runge-Kutta-Networks) — B. Sc. thesis about the connection of ODEs and Deep Learning.
+- [Jamming](https://github.com/tom22-5/git_jamming) - Web app integrating the Spotify API to collaboratively build and manage playlists.
+
 
 
 ## 💼 Experience  
