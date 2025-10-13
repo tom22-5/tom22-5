@@ -39,7 +39,6 @@ My research focuses on **randomized numerical linear algebra (RandNLA)**, **dyna
 
 **Student Researcher (C++, Python)** — *Apr 2025 – Present*  
 - Implemented **SIMD- and MPI-parallelized** tensor-product preconditioners for implicit DG solvers in [deal.II](https://www.dealii.org/).  
-- Boosted solver performance by 50% and achieved an additional 10% speedup using randomized SVD.
 
 **Bachelor’s Thesis (Matlab)** — *Apr – Jul 2023*  
 - Explored connections between **deep residual networks** and **Runge-Kutta ODE solvers**, showing how Euler-style residual connections yield optimal performance.
