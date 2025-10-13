@@ -26,7 +26,7 @@ In parallel, I have gained over three years of experience as a student software 
 
 ## 🔍 Featured Projects
 - [Randomized Methods for Dynamical Low-Rank Approximations](https://github.com/tom22-5/Randomized-Methods-For-DLR) - M. Sc. thesis surveying RandNLA, DLR, Tensor Low-Rank Approximations and applying randomized methods to tensor DLR in a first-of-its-kind approach.
-- [Generalized Residual Connections](https://github.com/tom22-5/Generalized-Residual-Connections) — Private review paper about residual connections.
+- [Generalized Residual Connections](https://github.com/tom22-5/Generalized-Residual-Connections) — Class project: review paper about residual connections.
 - [Moviender](https://github.com/tom22-5/moviender) -   Class project: a movie recommender system with a web GUI and collaborative filtering backend.
 - [Runge-Kutta Networks](https://github.com/tom22-5/Runge-Kutta-Networks) — B. Sc. thesis about the connection of ODEs and Deep Learning.
 - [Jammming](https://github.com/tom22-5/git_jammming) - Web app integrating the Spotify API to collaboratively build and manage playlists.
