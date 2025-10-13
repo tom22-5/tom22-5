@@ -63,7 +63,7 @@ In parallel, I have gained over three years of experience as a student software 
 *Sep 2024 – Jan 2025 · Focus: PDEs, Dynamical Systems, Deep Learning*  
 
 **B.Sc. Mathematics, Minor in Computer Science** — Ruhr-University Bochum  
-*Jul 2023 · 1.0/ GPA 4.0*  
+*Jul 2023 · 1.0 / GPA 4.0*  
 
 ---
 
