@@ -6,8 +6,11 @@
 ---
 
 ## 🧠 About Me  
-I’m a mathematics student passionate about **scientific computing**, **numerical analysis**, and **machine learning**.  
-My research focuses on **randomized numerical linear algebra (RandNLA)**, **dynamical low-rank approximations**, **numerical solution of PDE** and **Deep Learning**.
+I am a mathematics student at Ruhr University Bochum, expecting to complete my Master’s in March 2026. During my studies in Bochum and Barcelona, I developed a strong passion for research in numerical mathematics.
+
+I am particularly interested in **Randomized Numerical Linear Algebra**, **Finite Element Methods**, **High Performance Computing** and **Deep Learning**. I have conducted research in these areas through my Master’s and Bachelor’s theses as well as my work as a student researcher.
+
+In parallel, I have gained over three years of experience as a student software engineer, which allowed me to develop practical skills and explore real-world applications of my knowledge. 
 
 ---
 
@@ -28,7 +31,7 @@ My research focuses on **randomized numerical linear algebra (RandNLA)**, **dyna
 - [Runge-Kutta Networks](https://github.com/tom22-5/Runge-Kutta-Networks) — B. Sc. thesis about the connection of ODEs and Deep Learning.
 - [Jammming](https://github.com/tom22-5/git_jammming) - Web app integrating the Spotify API to collaboratively build and manage playlists.
 
-
+---
 
 ## 💼 Experience  
 
@@ -54,16 +57,13 @@ My research focuses on **randomized numerical linear algebra (RandNLA)**, **dyna
 ## 🎓 Education
 
 **M.Sc. Mathematics, Minor in Computer Science** — Ruhr-University Bochum  
-*Exp. Mar 2026 · GPA 1.0 / 4.0*  
-Thesis: *Randomized Methods for Dynamical Low-Rank Approximations (Julia, Python)*  
+*Exp. Mar 2026 · GPA 1.0 / 4.0*   
 
 **Exchange Semester** — Universitat de Barcelona  
 *Sep 2024 – Jan 2025 · Focus: PDEs, Dynamical Systems, Deep Learning*  
 
 **B.Sc. Mathematics, Minor in Computer Science** — Ruhr-University Bochum  
 *Jul 2023 · GPA 1.0 / 4.0*  
-Thesis: *Deep Learning with Runge-Kutta Networks (Matlab)*
-
 
 ---
 
