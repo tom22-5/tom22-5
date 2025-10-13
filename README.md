@@ -33,26 +33,6 @@ In parallel, I have gained over three years of experience as a student software 
 
 ---
 
-## 💼 Experience  
-
-### 🎓 Ruhr-University Bochum  
-**Master’s Thesis (Julia, Python)** — *Sep 2025 – Present*  
-- Developed new randomized methods for dynamical low-rank approximations, extending matrix-based techniques to tensors.  
-- Proposed the first-of-its-kind randomized low-rank tensor approximation approach.
-
-**Student Researcher (C++, Python)** — *Apr 2025 – Present*  
-- Implemented **SIMD- and MPI-parallelized** tensor-product preconditioners for implicit DG solvers in [deal.II](https://www.dealii.org/).  
-
-**Bachelor’s Thesis (Matlab)** — *Apr – Jul 2023*  
-- Explored connections between **deep residual networks** and **Runge-Kutta ODE solvers**, showing how Euler-style residual connections yield optimal performance.
-
----
-
-### 💻 Envera GmbH — *Hattingen, Germany*  
-**Student Software Engineer (VB.NET, C#, SQL)** — *Apr 2022 – Present*  
-- Automated billing validation workflows, reducing manual effort from 100% to <1%.  
-- Increased system throughput by 80% through SQL optimization and modular refactoring.  
-- Built a web-based GUI for internal tools and improved cross-team collaboration.
 
 ## 🎓 Education
 
@@ -60,7 +40,7 @@ In parallel, I have gained over three years of experience as a student software 
 *Exp. Mar 2026 · 1.0 / GPA 4.0*   
 
 **Exchange Semester** — Universitat de Barcelona  
-*Sep 2024 – Jan 2025 · Focus: PDEs, Dynamical Systems, Deep Learning*  
+*Sep 2024 – Jan 2025
 
 **B.Sc. Mathematics, Minor in Computer Science** — Ruhr-University Bochum  
 *Jul 2023 · 1.0 / GPA 4.0*  
