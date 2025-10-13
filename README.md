@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Tom Feldhausen  
 
 🎓 **M.Sc. Mathematics** (Minor in Computer Science) at [Ruhr-University Bochum](https://www.ruhr-uni-bochum.de), graduating **March 2026**  
-📍 Bochum, Germany • [LinkedIn](linkedin.com/in/tom-feldhausen-7a0a0b370) • tomfeldhausen@gmail.com  
+📍 Bochum, Germany • [LinkedIn](https://www.linkedin.com/in/tom-feldhausen-7a0a0b370) • tomfeldhausen@gmail.com  
 
 ---
 
