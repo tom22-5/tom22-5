@@ -56,5 +56,3 @@ In parallel, I have gained over three years of experience as a student software 
 Tennis • Football • Traveling • Science Fiction • Applied Mathematics  
 
 ---
-
-⭐️ *Always open to research collaborations and software development opportunities in scientific computing, numerical analysis, and Deep Learning.*
